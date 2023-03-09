@@ -1,0 +1,693 @@
+Period,Id,Name,Street,Area,Posttown,County,Postcode,lat,long
+202112,V4309,Mold Clinic,Mold,Clwyd, , ,Ch7 1L,53.17209696969697,-3.163118181818182
+202112,V4314,North Delyn Mental Health,Acorn Park,Flint,Clwyd, , ,53.2551,-3.1489
+202112,V4213,Hafod Day Hospital,Beechwood Road,Rhyl,Clwyd, , ,53.3193,-3.4923
+202112,V5220,M & C.W. Clinic Bettws,Church Street,Maesteg,Mid Glamorgan, , ,51.6093,-3.6582
+202112,V5221,M & C.W. Clinic Pencoed,Church Street,Maesteg,Mid Glamorgan, , ,51.6093,-3.6582
+202112,V5222,M & C.W. Clinic Porthcawl,Church Street,Maesteg,Mid Glamorgan, , ,51.6093,-3.6582
+202112,V5223,M & C.W. Clinic Ogmore Vale,Church Street,Maesteg,Mid Glamorgan, , ,51.6093,-3.6582
+202112,V5224,M & C.W. Clinic Pontycymmer,Church Street,Maesteg,Mid Glamorgan, , ,51.6093,-3.6582
+202112,V5225,M & C.W. Clinic North Cornelly,Church Street,Maesteg,Mid Glamorgan, , ,51.6093,-3.6582
+202112,V5226,M & C.W. Clinic Maesteg,Church Street,Maesteg,Mid Glamorgan, , ,51.6093,-3.6582
+202112,V5227,Maesteg F.P.C.,Church Street,Maesteg,Mid Glamorgan, , ,51.6093,-3.6582
+202112,V5108,Obstetric Services Central Clinic,21 Orchard Street,Swansea,West-Glamorgan, , ,51.6208,-3.9432
+202112,V5113,Orchard Centre,Orchard Street,Swansea,West-Glamorgan, , ,51.6208,-3.9432
+202112,V5114,Outpatients Department Trinity Buildings,21 Orchard Street,Swansea,West-Glamorgan, , ,51.6208,-3.9432
+202112,V4217,Cedar Court,65 Victoria Park,Colwyn Bay, , , ,53.2948,-3.7267
+202112,V2303,Ely Hospital ( Community Mental Health,Cowbridge Road West,Ely ,Cardiff,South Glamorgan, ,,
+202112,V2122,Child & Family Centre,Brynffynon,Merthyr Road,Pontypridd ,Mid-Glamorgan, ,,
+202112,V2123,Student Services,University Of Glamorgan,Pontypridd,Mid Glamorgan, , ,51.6021,-3.3421
+202112,V2305,Gabalfa Clinic,North Road,Gabalfa,Cardiff,South-Glamorgan , ,,
+202112,V1108,Clytha Clinic,26 Clytha Park Road,Newport,Gwent, , ,51.5877,-2.9984
+202112,V1109,Cwmbran Town Centre Clinic,Caradoc Road,Cwmbran,Gwent, , ,51.6545,-3.0228
+202112,V1111,Pontllanfraith Health Centre,Blackwood Road,Pontllanfraith,Gwent, , ,,
+202112,V3206,FAMILY PLANNING CLINIC (NEYLAND),Withybush General Hosp.,Fishguard Road,Haverfordwest Pembroke,Dyfed,SA61 2PZ,51.8017,-4.9691
+202112,V1124,Caldicot Health Centre,Caermawr Road,Caldicot,Gwent, , ,51.5866,-2.7574
+202112,V1135,Ebbw Vale Clinic,Bridge Street,Ebbw Vale,Gwent, ,XX0 0XX,51.7771,-3.2079
+202112,V2111,Gilfach Goch Community Health Clinic,Gelli Areal Road,Gilfach Goch,Mid Glamorgan, , ,51.5921,-3.473
+202112,V2118,Ferndale Clinic,Oakland Terrace,Ferndale,Mid Glamorgan, , ,51.6606,-3.4475
+202112,V2408,Penrhiwceiber Clinic,Harcourt Terrace,Penrhiwceiber,Mid Glamorgan, , ,51.6645,-3.3537
+202112,V3302,North Road Hospital,North Road,Aberystwyth,Dyfed, , ,52.4155,-4.0829
+202112,V3208,Swn-Y-Gwynt Day Hospital,Tir-Y-Dail,Ammanford,Dyfed, , ,51.7928,-3.9883
+202112,V3210,Brynmair Clinic,Goring Road,Llanelli,Dyfed, , ,51.6819,-4.1619
+202112,V4118,Priory Clinic,St.Davids Priory,Richmond Hill Holyhead,Gwynedd, , ,,
+202112,V3111,Mid Wales Hospital,Talgarth,Brecon,Powys, , LD3 ODS,51.99435362318841,-3.411075362318841
+202112,V2207,Sealock Clinic,Burt Street,Butetown  ,Cardiff,South Glamorgan,CF10 5FZ,51.48,-3.18
+202112,V2301,Royal Hamadryad Hospital,Hunter Street,The Docks ,Cardiff,South Glamorgan,CF10 5UQ,51.48,-3.18
+202112,V2304,Whitchurch Drug Depend. Unit (Comm Drug),46 Cowbridge Road East,Canton ,Cardiff,South Glamorgan ,CF11 9DU,51.48,-3.18
+202112,V2202,Cardiff Royal Infirmary,Newport Road,Cardiff,South-Glamorgan, ,CF24 0SZ,51.48,-3.18
+202112,V2306,Pentwyn Health Centre,Brynheulog,Pentwyn ,Cardiff,South-Glamorgan ,CF23 7JD,51.5144,-3.1545
+202112,V5219,Bridgend Health Centre,71 Quarella Road,Bridgend,Mid Glamorgan, ,CF31 1JS,51.507666666666665,-3.577733333333333
+202112,V5299,Bro Morgannwg - Unspecified Hospital,71 Quarella Road,Bridgend,Mid Glamorgan, ,CF31 1JS,51.507666666666665,-3.577733333333333
+202112,V5212,Princess Of Wales Hospital,Coity Road,Bridgend,Mid Glamorgan, ,CF31 1RQ,51.507666666666665,-3.577733333333333
+202112,V5215,Glanrhyd Hospital/Caswell Clinic,Pen- Y-Fai,Bridgend,Mid Glamorgan, ,CF31 4LN,51.507666666666665,-3.577733333333333
+202112,V5217,Maesgwyn Hospital,Highlands Avenue,Bryncethin,Mid Glamorgan, ,CF32 9YL,51.536704166666674,-3.5931333333333337
+202112,V5228,North Cornelly F.P.C.,Greenfield Terrace,North Cornelly,Mid Glamorgan, ,CF33 4LW,51.52158333333333,-3.697183333333333
+202112,V5216,Maesteg General Hospital,Neath Road,Maesteg,Mid Glamorgan, ,CF34 9PW,51.6030625,-3.6485
+202112,V5229,Porthcawl F.P.C.,South Place,Porthcawl,Mid Glamorgan, ,CF36 3DB,51.48453333333333,-3.6951
+202112,V2108,Dewi Sant Hospital,Albert Road,Pontypridd,Mid Glamorgan, ,CF37 1LB,51.613815384615386,-3.3598076923076925
+202112,V2199,Pontypridd & Rhondda - Unspecified Hosp.,Albert Road,Pontypridd,Mid Glamorgan, ,CF37 1LB,51.613815384615386,-3.3598076923076925
+202112,V2150,Pontypridd and Rhondda NHS Trust Comm. U,Albert Road,Pontypridd,Mid Glamorgan, ,CF37 1LB,51.613815384615386,-3.3598076923076925
+202112,V7999,Cwm Taf (Unidentified),Albert Road,Pontypridd,Mid Glamorgan, ,CF37 1LB,51.613815384615386,-3.3598076923076925
+202112,V2109,Pontypridd & District Hospital,The Common,Pontypridd,Mid Glamorgan, ,CF37 4AL,51.613815384615386,-3.3598076923076925
+202112,V2114,Pontypridd Family Planning Clinic,Bridge Street,Pontypridd,Mid Glamorgan, ,CF37 4PE,51.613815384615386,-3.3598076923076925
+202112,V2101,East-Glamorgan General Hospital,Church Village,Pontypridd,Mid Glamorgan, ,CF38 1AB,51.5543,-3.34528
+202112,V2107,Mental Health Unit (East Glam),East-Glamorgan Gen. Hosp.,Church Village,Mid Glamorgan, ,CF38 1AB,51.5543,-3.34528
+202112,V2103,Porth & District Hospital,Cemetery Road,Porth Rhondda,Mid Glamorgan, ,CF39 0BW,51.5988125,-3.447975
+202112,V2115,Tonyrefail County Council Clinic,School Street,Tonyrefail Porth,Mid Glamorgan, ,CF39 8LE,51.5988125,-3.447975
+202112,V2299,UHW & Llandough - Unspecified Hospital,University Hosp. Of Wales,Heath Park Cardiff,South-Glamorgan, ,CF14 4XW,51.5199,-3.204
+202112,V2250,University Hospital of Wales & Llandough,University Hosp. Of Wales,Heath Park Cardiff,South-Glamorgan, ,CF14 4XW,51.5199,-3.204
+202112,V2201,University Hospital Of Wales,Heath Park,Cardiff,South-Glamorgan, ,CF14 4XW,51.5199,-3.204
+202112,V2501,Velindre Hospital,Whitchurch,Cardiff,South-Glamorgan, ,CF14 2TL,51.5199,-3.204
+202112,V2599,Velindre NHS Trust - Unspecified Hosp,Velindre Hospital,Whitchurch Cardiff,South-Glamorgan, ,CF14 2TL,51.5199,-3.204
+202112,V2550,Velindre NHS Trust Comm. Unit,Velindre Hospital,Whitchurch Cardiff,South-Glamorgan, ,CF14 2TL,51.5199,-3.204
+202112,V2116,Tonypandy Health Centre,Dewinton Field,Tonypandy,Mid Glamorgan, ,CF40 1LL,51.627316666666665,-3.461883333333333
+202112,V2120,Llwynypia F.P.Clinic,Llwynypia Hospital,Llwynypia Rhondda,Mid Glamorgan, ,CF40 2LX,51.627316666666665,-3.461883333333333
+202112,V2105,Treherbert Hospital,Treherbert,Rhondda,Mid Glamorgan, ,CF42 5PW,51.66798333333333,-3.5247833333333336
+202112,V2117,Ynyswen Clinic,Ynyswen Road,Treorchy Rhondda,Mid Glamorgan, ,CF42 6ED,51.66798333333333,-3.5247833333333336
+202112,V2121,Treorchy F.P.C.,Ynyswen Road,Treorchy Rhondda,Mid Glamorgan, ,CF42 6ED,51.66798333333333,-3.5247833333333336
+202112,V2106,Ysbyty George Thomas,Cwm Parc Road,Ystrad Fechan Treorchy,Mid Glamorgan, ,CF42 6YG,51.66798333333333,-3.5247833333333336
+202112,V2119,Tylorstown Clinic,Ferndale Road,Tylorstown Rhondda,Mid Glamorgan, ,CF43 3HB,51.66792,-3.4671
+202112,V2403,Aberdare General Hospital,Abernant Road,Aberdare,Mid Glamorgan, ,CF44 0RF,51.7327125,-3.48293125
+202112,V2407,Aberdare Health Centre,High Street,Aberdare,Mid Glamorgan, ,CF44 7AA,51.7327125,-3.48293125
+202112,V2409,Hirwaun Health Centre,Brecon Road,Hirwaun,Mid Glamorgan, ,CF44 9NN,51.7327125,-3.48293125
+202112,V2402,Mountain Ash General Hospital,Dyffryn Road,Mountain Ash,Mid Glamorgan, ,CF45 4DE,51.66452,-3.3537
+202112,V2410,Abercynon Health Centre,Ynysmeurig Road,Abercynon,Mid Glamorgan, ,CF45 4SY,51.66452,-3.3537
+202112,V2401,St. Tydfils Hospital,Upper Thomas Street,Merthyr Tydfil,Mid Glamorgan, ,CF47 0SJ,51.7479,-3.3778
+202112,V2405,Maerdy Hospital,Merthyr Tydfil,Mid-Glamorgan, , ,CF47 0UF,51.7479,-3.3778
+202112,V2406,Hollies Health Centre,Swan Street,Merthyr Tydfil,Mid Glamorgan, ,CF47 8EU,51.7479,-3.3778
+202112,V2412,Gwaelod-Y-Garth Hospital,Merthyr Tydfil,Mid-Glamorgan,Mid Glamorgan, ,CF47 8EX,51.7479,-3.3778
+202112,V2404,Prince Charles Hospital,Gurnos Estate,Merthyr Tydfil,Mid Glamorgan, ,CF47 9DT,51.7479,-3.3778
+202112,V2302,Preswylfa Child & Family Centre,Clive Road,Canton ,Cardiff,South Glamorgan ,CF5 1GN,51.471875,-3.275816666666667
+202112,V2205,Sully Hospital,Hayes Road,Sully,South-Glamorgan, ,CF6 2YA,51.407,-3.2209
+202112,V2206,Amy Evans Memorial Hospital,Holton Road,Barry,South-Glamorgan, ,CF6 6HN,51.3998,-3.2838
+202112,V2203,The Barry Hospital,Colcot Road,Barry,South-Glamorgan, ,CF62 8HE,51.4027,-3.37145
+202112,V2112,Talbot Green Family Planning,Newpark Clinic,Talbot Green,Mid Glamorgan, ,CF7 8RD,51.5299,-3.4011
+202112,V2102,Talygarn Rehabilitation Day Centre,Talygarn,Pontyclun,Mid Glamorgan, ,CF7 9XB,51.5216,-3.3914
+202112,V1114,Bargoed Clinic,Hanbury Square,Bargoed,Mid Glamorgan, ,CF8  0QQ,51.7105,-3.265
+202112,V1115,Ty Siriol Clinic/Bryn Golau Unit,49 St. Martins Road,Caerphilly,Mid Glamorgan, ,CF8 1EG,51.5745,-3.218
+202112,V1113,Ystrad Mynach Hospital,Caerphilly Road,Ystrad Mynach,Mid Glamorgan, ,CF8 7XU,51.6428,-3.2362
+202112,V4308,Broughton Hospital,Chester Road,Broughton Chester,Clwyd, ,CH4 0DF,53.15806666666666,-2.953475
+202112,V4303,Deeside Community Hospital,Plough Lane,Higher Shotton,Deeside ,Clwyd,CH5 1XS,53.19930000000001,-3.03614
+202112,V4310,Connahs Quay Clinic,Civic Centre,Wepre Lane ,Connahs Quay,Clwyd,CH5 4HA,53.19930000000001,-3.03614
+202112,V4304,Flint Community Hospital,Cornist Road,Flint,Clwyd, ,CH6 5HG,53.255125,-3.1489
+202112,V4999,Betsi Cadwaladr Uni (Unidentified),Preswylfa,Hendy Road,Mold ,Flintshire,CH7 1PZ,53.17209696969697,-3.163118181818182
+202112,V4313,Pwll Glas Resource Centre,Pwll Glas Road,Mold,Clwyd, ,CH7 1RA,53.17209696969697,-3.163118181818182
+202112,V4306,Mold Community Hospital,Ash Grove,Mold,Clwyd, ,CH7 1RH,53.17209696969697,-3.163118181818182
+202112,V4204,Lluesty Hospital,Old Chester Road,Holywell,Clwyd, ,CH8 7SA,53.2939,-3.261017391304348
+202112,V4305,Holywell Community Hospital,Pen-Y-Maes Road,Holywell,Clwyd, ,CH8 7SA,53.2939,-3.261017391304348
+202112,V3104,Llandrindod Wells Hospital,Temple Street,Llandrindod Wells,Powys, ,LD1 5HF,52.2618,-3.3257903225806453
+202112,V3103,Builth Wells Cottage Hospital,Builth Wells,Powys,Builth Wells, ,LD2 3HE,52.104838461538456,-3.3634192307692308
+202112,V3108,Bronllys Hospital,Bronllys,Powys,Bronllys Brecon Powys, ,LD3 0LS,51.99435362318841,-3.411075362318841
+202112,V3101,Brecon War Memorial Hospital,Cerrigcochion Road,Brecon,Powys, ,LD3 7NS,51.99435362318841,-3.411075362318841
+202112,V3109,Knighton Hospital,Ffryd Road,Knighton,Powys, ,LD7 1DF,52.38221764705882,-3.0686
+202112,V4312,WREXHAM CAMHS (Child & Family Services),Richmond House,31 Grosvenor Rd.,Wrexham,Clwyd,LL11 1BT,53.064506666666674,-3.052973333333333
+202112,V4315,Hafan Wen,Watery Road,Wrexham,Clwyd, ,LL13 7NQ,52.9917619047619,-2.9116809523809524
+202112,V4307,Llwyn-Y-Groes,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham ,Clwyd,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4399,North East Wales - Unspecified Hospital,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham ,Clwyd,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4350,North East Wales NHS Trust Comm. Unit,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham ,Clwyd,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4301,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham,Clwyd, ,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4302,Chirk Community Hospital,Chirk,Clwyd,Chirk, ,LL14 5LN,52.98906111111111,-3.0515166666666667
+202112,V4311,Ruabon Clinic,High Street,Ruabon,Clwyd, ,LL14 6NH,52.98906111111111,-3.0515166666666667
+202112,V4209,Ruthin Community Hospital,Llanrhydd Street,Ruthin,Clwyd, ,LL15 1PS,53.09201875,-3.3377625
+202112,V4206,Denbigh Community Hospital,Ruthin Road,Denbigh,Clwyd, ,LL16 3ES,53.170152173913046,-3.4313173913043475
+202112,V4210,North Wales Hospital,Denbigh,Clwyd, , ,LL16 5SS,53.170152173913046,-3.4313173913043475
+202112,V4203,Hm Stanley Hospital,Upper Denbigh Road,St. Asaph,Clwyd, ,LL17 0RS,53.25438333333333,-3.413383333333333
+202112,V4214,Child & Family Service(Lawnside),Lawnside Olinda Street,Rhyl,Clwyd, ,LL18 3EP,53.29182,-3.45482
+202112,V4202,Ysbyty Glan Clwyd,Sarn Lane,Bodelwyddan,Clwyd, ,LL18 5UJ,53.29182,-3.45482
+202112,V4208,Prestatyn Community Hospital,49 The Avenue,Prestatyn,Clwyd, ,LL19 9RD,53.3274,-3.408033333333333
+202112,V4207,Llangollen Community Hospital,Abbey Road,Llangollen,Clwyd, ,LL20 8SP,52.955846666666666,-3.16774
+202112,V4201,Abergele Hospital,Llanfair Road,Abergele,Clwyd, ,LL22 8DP,53.20816315789474,-3.6482
+202112,V4103,Bala Clinic,Bala,Gwynedd, , ,LL23 7BA,52.90324,-3.59721
+202112,V4212,Gwynfa Adolescent Unit,Pe-Y-Bryn Road,Colwyn Bay,Clwyd, ,LL29 6AL,53.283275,-3.6966
+202112,V4211,Nant-Y-Glyn Hospital,Nant-Y-Glyn Road,Colwyn Bay,Clwyd, ,LL29 7PU,53.283275,-3.6966
+202112,V4216,Nant Y Glyn Resource Centre,10 Nant Y Glyn Road,Colwyn Bay,Conwy,Aberconwy,LL29 7RB,53.283275,-3.6966
+202112,V4205,Colwyn Bay Community Hospital,Hesketh Road,Colwyn Bay,Clwyd, ,LL29 8AY,53.283275,-3.6966
+202112,V4110,Conwy Hospital,Conwy,Gwynedd, , ,LL32 8EB,53.22179,-3.843480000000001
+202112,V4116,Bryn-Y-Neuadd Hospital,Llanfairfechan,Gwynedd, , ,LL33 0HH,53.2578,-3.9742
+202112,V4108,Tywyn & District War Memorial Hospital,Tywyn,Gwynedd, , ,LL36 9HH,52.60728,-4.059706666666667
+202112,V4105,Dolgellau & Barmouth Community Hospital,Dolgellau,Gwynedd, , ,LL40 1NT,52.78853125,-3.90086875
+202112,V4106,Ffestiniog Memorial Hospital,Blaenau Ffestiniog,Gwynedd, , ,LL41 3DW,52.95797,-3.94751
+202112,V4107,Stanley Sailors Hospital,Salt Island,Holyhead,Gwynedd, ,LL48 6HE,52.931488888888886,-4.073088888888889
+202112,V4113,Bryseiont Hospital,Caernarfon,Gwynedd, , ,LL53 2YU,52.89524166666667,-4.493856666666668
+202112,V4119,Pwllheli Hospital,Health Centre,Ala Road Pwllheli,Gwynedd, ,LL53 5HL,52.89524166666667,-4.493856666666668
+202112,V4109,Cefni Hospital,Llangefni,Gwynedd, , ,LL54 5HL,53.01643928571429,-4.2483
+202112,V4112,Bronygarth Hospital,Penrhyndeudraeth,Gwynedd, , ,LL54 5HL,53.01643928571429,-4.2483
+202112,V4111,Eryri Hospital,Caernarfon,Gwynedd, , ,LL55 2YE,53.12915357142857,-4.195053571428572
+202112,V4101,Ysbyty Gwynedd (Non Psychiatric),Penrhosgarnedd,Bangor,Gwynedd, ,LL57 2PW,53.203925000000005,-4.106675
+202112,V4117,Hergest Acute Mental Illness Unit,Adjacent Ysbyty Gwynedd,Penrhosgarnedd Bangor,Gwynedd, ,LL57 2PW,53.203925000000005,-4.106675
+202112,V4199,North West Wales - Unspecified Hospital,Adjacent Ysbyty Gwynedd,Penrhosgarnedd Bangor,Gwynedd, ,LL57 2PW,53.203925000000005,-4.106675
+202112,V4115,Minfordd Hospital,Bangor,Gwynedd, , ,LL57 4DR,53.203925000000005,-4.106675
+202112,V4114,Valley Hospital,Valley,Gwynedd, , ,LL65 3DP,53.28968620689656,-4.534455172413793
+202112,V1122,Risca Health Centre,Cromwell Road,Risca,Gwent, ,NP11 6YE,51.6439,-3.1317
+202112,V1106,Oakdale Hospital,Oakdale,Blackwood,Gwent, ,NP12 0JH,51.6678,-3.2075
+202112,V1126,Ty Sirhowy,Cwmgelli,Blackwood,Gwent, ,NP12 1YR,51.6678,-3.2075
+202112,V1133,Tredegar General Hospital,Tredegar,Gwent, , ,NP22 3XP,51.7725,-3.2468
+202112,V1127,Tredegar Clinic,Park Row,Tredegar,Gwent, ,NP22 4XE,51.7725,-3.2468
+202112,V1128,Abertillery District Hospital,Aberbeeg,Abertillery,Gwent, ,NP13 2XA,51.7298,-3.1343
+202112,V1131,Blaina & District Hospital,Nantyglo,Blaina,Gwent, ,NP23 4LY,51.7771,-3.2079
+202112,V1132,Ebbw Vale Hospital,Hillside,Ebbw Vale,Gwent, ,NP23 5YA,51.7771,-3.2079
+202112,V9950,English Nurse Prescribers,Mamhilad House,Mamhilad Park Estate,Pontypool,Gwent,NP4 0YP,51.718515789473685,-3.030521052631579
+202112,V1103,County Hospital,Griffithstown,Pontypool,Gwent, ,NP4 5YA,51.718515789473685,-3.030521052631579
+202112,V1134,Blaenavon General Hospital (H/care Unit),Blaenavon,Gwent, , ,NP4 9AF,51.718515789473685,-3.030521052631579
+202112,V1117,Llanfrechfa Grange Hospital,Llanfrechfa,Cwmbran,Gwent, ,NP44 5YN,51.65070000000001,-3.0178
+202112,V1129,Monmouth General Hospital,Hereford Road,Monmouth,Gwent, ,NP25 3HG,51.8127,-2.7136
+202112,V1118,St. Cadocs Hospital,Caerleon,Newport,Gwent, ,NP18 3QX,51.6084,-2.9435
+202112,V1121,Woodstock Centre (Comm. Mental Health),Caemawr Road,Caldicot,Gwent, ,NP26 4EW,51.5866,-2.7574
+202112,V1107,Mount Pleasant Hospital,Chepstow,Gwent,Chepstow, ,NP16 5YU,51.6409,-2.6768
+202112,V1123,Dan-Y-Bryn,Eureka Place,Ebbw Vale,Gwent, ,NP16 6PN,51.6409,-2.6768
+202112,V1120,Pen-Y-Fal Hospital (Lyndhurst),Abergavenny,Gwent, , ,NP7 5YY,51.85129210526316,-3.0386236842105263
+202112,V1110,Primary Care Unit / Comm. Health Centre,Newport Divisional Office,27 Clytha Park Road,Newport Gwent,Gwent,NP20 4PA,51.5877,-2.9984
+202112,V1102,St. Woolos Hospital,131 Stow Hill,Newport,Gwent, ,NP20 4SZ,51.5877,-2.9984
+202112,V1104,Allt-Yr-Yn Hospital,Allt-Yr-Yn View,Newport,Gwent, ,NPT 5XB,51.5877,-2.9984
+202112,V6999,Powys Teaching (Unidentified),Mansion House,Bronllys,Brecon,POWYS,LD3 0LS,51.99435362318841,-3.411075362318841
+202112,V5999,Abertawe Bro Morgannwg Uni (Unidentified,41 High Street,Swansea, , ,SA1 1LT,51.63398,-3.94848
+202112,V5201,Neath General Hospital,Penrhiwtyn,Neath,West-Glamorgan, ,SA11 2LQ,51.70800714285714,-3.694407142857143
+202112,V5205,Tonna Hospital (Emi Department),Tonna Uchaf,Neath,West-Glamorgan, ,SA11 3LX,51.70800714285714,-3.694407142857143
+202112,V5204,Cymla Hospital,Cymla,Neath,West-Glamorgan, ,SA11 3SU,51.70800714285714,-3.694407142857143
+202112,V5202,Port Talbot Hospital,Hospital Road,Port Talbot,West-Glamorgan, ,SA12 6PD,51.61181666666667,-3.7703
+202112,V3410,Mynydd Mawr Hospital,Upper Tumble,Llanelli,Dyfed,West Glamorgan,SA14 6BU,51.76378235294118,-4.089482352941177
+202112,V3412,Cross Hands Health Centre,Carmarthen Road,Crosshands,Dyfed, ,SA14 6SU,51.76378235294118,-4.089482352941177
+202112,V3409,Prince Philip Hospital,Bryngwynmawr,Dafen Llanelli,Dyfed,Dyfed,SA14 8QF,51.76378235294118,-4.089482352941177
+202112,V3413,Llwynhendy Health Centre,Swansea Road,Llanelli,Dyfed, ,SA14 9BN,51.76378235294118,-4.089482352941177
+202112,V3415,Bryntirion Hospital,Swansea Road,Llanelli,Dyfed, ,SA15 3DX,51.74003,-4.187250000000001
+202112,V3414,Elizabeth Williams Health Clinic,Mill Lane,Llanelli,Dyfed, ,SA15 3SE,51.74003,-4.187250000000001
+202112,V3411,Burryport Health Centre,Parc-Y-Minos Street,Burryport,Dyfed,Carmarthenshire,SA16 0BN,51.68593333333333,-4.261566666666667
+202112,V3408,Amman Valley Hospital,Folland Road,Glanamman,Dyfed,Dyfed,SA18 2BQ,51.791845,-3.966785
+202112,V3407,Meddygfa Teilo Clinic,Crescent Road,Llandeilo,Dyfed, ,SA19 6HL,51.92279722222222,-3.950983333333333
+202112,V5199,Swansea - Unspecified Hospital,Singleton Hospital,Sketty ,Swansea ,West-Glamorgan,SA2 0FB,51.61628,-4.04254
+202112,V5106,Hill House Hospital,Cockett Road,Swansea,West-Glamorgan, ,SA2 0FB,51.61628,-4.04254
+202112,V5109,Cefn Coed Hospital  (Emi Department),Waunarlwlydd Road,Cockett ,Swansea,West-Glamorgan,SA2 0GH,51.61628,-4.04254
+202112,V5105,Fairwood Hospital,794 Gower Road,Upper Killay,Swansea,West-Glamorgan ,SA2 7LN,51.61628,-4.04254
+202112,V5107,Singleton Hospital,Sketty Lane,Swansea,West-Glamorgan, ,SA2 8QA,51.61628,-4.04254
+202112,V3406,Llandovery Child Health Clinic,Llanfair Road,Llandovery,Dyfed, ,SA20 0HY,52.01661333333333,-3.785813333333333
+202112,V3403,Llandovery Hospital,Llanfair Road,Llandovery,Dyfed, ,SA20 0LA,52.01661333333333,-3.785813333333333
+202112,V3402,Priory Street Hospital,Priory Street,Carmarthen,Dyfed, ,SA3 1NA,51.59142222222222,-4.136385185185185
+202112,V3404,Pond Street Clinic / Carmarthen F.P.C,Pond Street,Carmarthen,Dyfed, ,SA31 1RT,51.85391,-4.30209
+202112,V3499,Carmarthenshire - Unspecified Hospital,West Wales General Hosp.,Carmarthen,Dyfed, ,SA31 2AF,51.85391,-4.30209
+202112,V3450,Carmarthenshire NHS Trust Comm. Unit,West Wales General Hosp.,Carmarthen,Dyfed, ,SA31 2AF,51.85391,-4.30209
+202112,V3211,Plas Y Dderwen  St. Davids Hospital,Jobswell Road,Carmarthen,Dyfed, ,SA31 2HG,51.85391,-4.30209
+202112,V3999,Hywel Dda (Unidentified),St. David's Hospital,Carmarthen,Carmarthen, ,SA31 3HB,51.85391,-4.30209
+202112,V3207,St. Davids Hospital,Carmarthen,Dyfed, , ,SA31 3HB,51.85391,-4.30209
+202112,V3209,Y Delin Day Hospital,St. Davids Hospital,Carmarthen,Dyfed, ,SA31 3HB,51.85391,-4.30209
+202112,V5112,Garngoch Hospital (Emi Department),Hospital Road,Gorseinon,Swansea,West Glamorgan,SA4 2LH,51.670225,-4.059125
+202112,V5101,Gorseinon Hospital,Brynawel,Gorseinon ,Swansea ,West-Glamorgan,SA4 2UU,51.670225,-4.059125
+202112,V3405,Llanybydder Health Clinic,Lampeter Road,Llanybydder,Dyfed, ,SA40 0TY,52.08593636363637,-4.175609090909092
+202112,V3304,Cardigan & District Memorial Hospital,Pontyceifion,Cardigan,Dyfed,Dyfed,SA43 1DP,52.07603076923077,-4.6376
+202112,V5116,Dr. G. Salmon Trehafod Child & Family ,Trehafod Child & Family clinic,Waunarlwydd Road,Crockett,SWANSEA,SA2 0GH,51.61628,-4.04254
+202112,V5231,Youth Advisory Clinic,Greenfield Terrace,North Cornelly,,,OO0 0OO,51.5228,-3.7073
+202112,V3307,Cardigan F.P.C.,Pendre,Cardigan,Dyfed,Dyfed,SA43 1EE,52.07603076923077,-4.6376
+202112,V3303,Aberaeron Hospital,Aberaeron,Dyfed,Aberaeron, ,SA46 0JJ,52.2425,-4.2587
+202112,V3306,Lampeter Health Clinic,Lampeter,Dyfed,Lampeter, ,SA48 7BJ,52.154116,-4.1118
+202112,V5110,Community Drug and Alcohol Team,Cwmbwrla Health Centre,Caebricks Road Cwmbwrla,Swansea ,West Glamorgan,SA5 8NZ,51.64667142857143,-3.9853857142857145
+202112,V5111,Dr. R.Atkinson  (Dyfed),Cwmbwrla Health Centre,Caebricks Road Cwmbwrla,Swansea ,West Glamorgan,SA5 8NZ,51.64667142857143,-3.9853857142857145
+202112,V5103,Clydach War Memorial Hospital,Quarr Road,Clydach,Swansea,West Glamorgan,SA6 5DT,51.6766,-3.9147
+202112,V5104,Morriston Hospital,Heol Maes Eglwys,Morriston,Swansea,West Glamorgan,SA6 6NL,51.6766,-3.9147
+202112,V3204,Merlins Hill Community Clinic,Haverfordwest,Pembroke, , ,SA61 1PG,51.8017,-4.9691
+202112,V3299,Pembroke & Derwen - Unspecified Hospital,Withybush General Hosp.,Fishguard Road,Haverfordwest Pembroke,Dyfed,SA61 2PZ,51.8017,-4.9691
+202112,V3250,Pembrokeshire and Derwen NHS Trust Comm.,Withybush General Hosp.,Fishguard Road,Haverfordwest Pembroke,Dyfed,SA61 2PZ,51.8017,-4.9691
+202112,V3201,Withybush General Hospital,Fishguard Road,Haverfordwest,Pembroke,Dyfed,SA61 2PZ,51.8017,-4.9691
+202112,V3203,Tenby Cottage Hospital,Trafalgar Road,Tenby,Pembroke,Dyfed,SA70 7EE,51.6747,-4.769346153846154
+202112,V3205,Pembroke & Pembroke Dock Health Centre,Water Street,Pembroke Dock,Pembroke,Dyfed,SA72 6DW,51.69333333333333,-4.921600000000001
+202112,V3202,South Pembrokeshire Hospital,Fort Road,Pembroke Dock,Pembroke,Dyfed,SA72 6SX,51.69333333333333,-4.921600000000001
+202112,V5102,Gellinudd Hospital,Lon Catwg,Gellinudd,Pontardawe,West-Glamorgan ,SA8 3DX,51.72245,-3.8458625
+202112,V3110,Ystradgynlais Community Hospital,Glanrhyd Road,Ystradgynlais,Powys, ,SA9 1AE,51.781353333333335,-3.760806666666667
+202112,V3106,Montgomeryshire County Infirmary,Llanfair Road,Newtown,Powys, ,SY16 2DW,52.50787647058824,-3.3015823529411765
+202112,V3113,Llys Maldwyn Hospital,Caersws,Powys,Powys, ,SY17 5HA,52.51968000000001,-3.47288
+202112,V3105,Llanidloes & District War Memorial Hosp.,Llanidloes,Powys,Llanidloes, ,SY18 6HF,52.428,-3.5729875
+202112,V3102,Broddyfi Community Hospital,Machynlleth,Powys,Llanidloes, ,SY20 8AD,52.59227105263158,-3.816673684210527
+202112,V3107,Victoria Memorial Hospital,Salop Road,Welshpool,Powys, ,SY21 7DU,52.67081351351352,-3.1976945945945947
+202112,V3112,Brynhyfryd Hospital,Forden,Welshpool,Powys, ,SY21 8NW,52.67081351351352,-3.1976945945945947
+202112,V3399,Ceredigion & Mid Wales Unspecified Hosp.,Bronglais General Hosp.,Caradog Road,Aberystwyth,Dyfed,SY23 1ER,52.34458541666667,-3.9885
+202112,V3350,Ceredigion and Mid Wales NHS Trust Comm.,Bronglais General Hosp.,Caradog Road,Aberystwyth,Dyfed,SY23 1ER,52.34458541666667,-3.9885
+202112,V3301,Bronglais General Hospital,Caradog Road,Aberystwyth,Dyfed, ,SY23 1ER,52.34458541666667,-3.9885
+202112,V3305,Tregaron Hospital,Tregaron,Dyfed,Borth Ceredigion, ,SY25 6JP,52.25277692307692,-3.929376923076923
+202112,V1199,Gwent Healthcare - Unspecified Hospital,MAMHILAD HOUSE,MAMHILAD PARK ESTATE,PONTYPOOL,GWENT,NP4 0YP,51.718515789473685,-3.030521052631579
+202112,V5237,PENCOED F.P.C.,CHURCH ST,MAESTEG,MID GLAM,,000 000,51.6093,-3.6582
+202112,V2999,Cardiff And Vale Uni (Unidentified),CHURCHILL HOUSE,CHURCHILL WAY,CARDIFF,SOUTH GLAMORGAN,CF10 2TW,51.48,-3.18
+202112,V8999,Velindre NHS Trust (Unidentified),2 Charnwood Court,Parc Nantgarw,Cardiff,S Glam,CF15 7QZ,51.5337,-3.2721
+202112,V5244,HENSOL HOSPITAL,HENSOL HOSPITAL,HENSOL SITE,PONTYCLUN,,CF72 8YS,51.53014615384616,-3.408415384615384
+202112,V1130,Nevill Hall Hospital,Brecon Road,Abergavenny,Gwent, ,NP7 7EG,51.85129210526316,-3.0386236842105263
+202112,V4121,NORTH WEST WALES DRUG SERVICE,SMS  THE OLD SURGERY,CASTELLFRYN,STAR CAERWEN,YNYS MON,LL60 6AS,53.22316666666666,-4.282666666666667
+202112,V2608,S & E CARDIFF COMMUNITY RESOURCE TEAM,91-99 LLANRUMNEY AVENUE,LLANRUMNEY,CARDIFF,,CF3 4DP,51.52382222222222,-3.0891333333333333
+202112,V2630,ROOKWOOD HOSPITAL,FAIRWATER ROAD,LLANDAFF,CARDIFF,,CF5 2YN,51.471875,-3.275816666666667
+202112,V2450,North Glamorgan NHS Trust Comm. Unit,Ysbyty Cwm Cynon,New Road,Mountain Ash,RHONDDA CYNON TAFF,CF45 4BZ,51.66452,-3.3537
+202112,V4120,Ysbyty Penrhos Stanley,Holyhead,Anglesey,, ,LL65 2QA,53.28968620689656,-4.534455172413793
+202112,V3119,Glan Irfon,Pendre,Builth Wells,Powys,,LD2 3DG,52.104838461538456,-3.3634192307692308
+202112,V2622,WEST VALE COMMUNITY MENTAL HEALTH,UNIVERSITY HOSPITAL OF WALES,HEATH PARK,CARDIFF, ,CF14 4XW,51.5199,-3.204
+202112,V2413,SEYMOUR BERRY CENTRE ( MERTHYR CMHT ),SEYMOUR BERRY CENTRE,VICTORIA STREET,DOWLAIS,MERTHYR TYDFIL,CF48 3RL,51.73028000000001,-3.37198
+202112,V1150,Gwent Heathcare Community Unit,Grange House,Llanfrechfa Grange,Cwmbran,,NP44 8YN,51.65070000000001,-3.0178
+202112,V4250,Conwy and Denbighshire NHS Trust Comm. U,Ysbyty Glan Clwyd,Sarn Lane,Bodelwyddan  Rhyl,DENIGNHSHIRE,LL18 5UJ,53.29182,-3.45482
+202112,V1136,Risca Health Centre,Cromwell Road,Risca,,,NP1 6YE,,
+202112,V5238,COMMUNITY DRUGS TEAM(NEATH/PORT TALBOT),DERWEN ROAD,BRIDGEND,,,OO0 0OO,51.5058,-3.5772
+202112,V2204,Llandough Hospital,Penlan Road,Llandough,Penarth,VALE OF GLAMORGAN,CF64 2XX,51.42878,-3.21045
+202112,V2617,EAST VALE COMMUNITY MENTAL HEALTH TEAM,19 STANWELL ROAD,PENARTH,VALE OF GLAMORGAN,,CF64 2XZ,51.42878,-3.21045
+202112,V2618,ST DAVIDS HOSPITAL,ST DAVIDS HOSPITAL,COWBRIDGE ROAD EAST,CANTON,CARDIFF,CF11 9XB,51.48,-3.18
+202112,V5239,NEATH PORT TALBOT HOSPITAL,NEATH PORT TALBOT HOSPITAL,BAGLAN WAY,PORT TALBOT,,SA12 7BX,51.61181666666667,-3.7703
+202112,V3117,MONTGOMERYSHIRE SUBS MISUSE CLINIC,MONTGOMERY SUBS MISUSE CLINIC,1ST FLOOR  BANK CHAMBERS,THE BANK  OFF SHORTBRIDGE ST,NEWTOWN POWYS,SY16 2LP,52.50787647058824,-3.3015823529411765
+202112,V5240,C.D.A.T. BRIDGEND HOME DETTOX,DERWEN ROAD,BRIDGEND,,,OO0 0OO,51.5058,-3.5772
+202112,V1116,Family Planning Clinic - Ystrad Mynach,Caerphilly Road,Ystrad Mynach,Mid Glamorgan, ,CF8 7XU,51.6428,-3.2362
+202112,V2125,Probation Service Prescribing Clinic,4 - 9 THE BROADWAY,PONTYPRIDD,MID GLAM,,CF37 1BA,51.613815384615386,-3.3598076923076925
+202112,V9850,English Unidentified Hospitals,Mamhilad House,Mamhilad Park Estate,Pontypool,Gwent,NP4 0YP,51.718515789473685,-3.030521052631579
+202112,V2616,ASYLUM SEEKERS ASSESSMENT CENTRE,SPLOTT CLINIC,SOUTH PARK ROAD,SPLOTT,CARDIFF,CF24 2LU,51.48,-3.18
+202112,V2621,PENARTH CLINIC,THE HEALTH CENTRE,STANWELL ROAD,PENARTH,SOUTH GLAMORGAN,CF64 3XE,51.42878,-3.21045
+202112,V2113,Community Drug & Alcohol Team,Main Road,Church Village Pontypridd,Rhondda Cynon Taf, ,CF38 1RN,51.5543,-3.34528
+202112,V5242,BRIDGEND C.D.A.T.,TREMYR MOR,BETTWS ROAD,BETTWS,BRIDGEND,OO0 0OO,,
+202112,V2651,MONMOUTH HOUSE,UNIVERSITY HOSPITAL OF WALES,HEATH PARK,CARDIFF, ,CF14 4XW,51.5199,-3.204
+202112,V4316,Community C.D.A.T. Swn Y Coed,The Elms,Rhosddu Road,Wrexham,,LL11 1EB,53.064506666666674,-3.052973333333333
+202112,V3118,C.M.H.T.- Bryntirion Resource Centre,SALOP ROAD,WELSHPOOL,POWYS,,CY21 7DU,52.6597,-3.1471
+202112,V5232,Youth Advisory Clinic,Alexandra Road,Pontycymmer,,,OO0 0OO,,
+202112,V2350,Cardiff and District Community NHS Trust,TRENEWYDD,FAIRWATER ROAD,LLANDAFF,CARDIFF,CF5 2LD,51.471875,-3.275816666666667
+202112,V5233,Youth Advisory Clinic,Church Street,Maesteg,,,OO0 0OO,51.6093,-3.6582
+202112,V2399,Cardiff & District Unspecified Hospital,TRENEWYDD,FAIRWATER ROAD,LLANDAFF,CARDIFF,CF5 2LD,51.471875,-3.275816666666667
+202112,V5234,Youth Advisory Clinic,Quaella Road,Bridgend,,,OO0 0OO,51.5058,-3.5772
+202112,V5235,Youth Advisory Clinic,Wimbourne Road,Pencoed,,,OO0 0OO,51.5237,-3.5002
+202112,V2502,HOLME TOWER,MARIE CURIE CENTRE,PENARTH,CARDIFF,,OO0 0OO,51.4386,-3.1734
+202112,V5236,Youth Advisory Clinic,Heol Bryn Cwlils,Bryncethin,,,OO0 0OO,51.5459,-3.5678
+202112,V2124,Royal Glamorgan Hospital,ROYAL GLAMORGAN HOSPITAL,YNYS MAERDY,LLANTRISANT,,CF72 8XR,51.53014615384616,-3.408415384615384
+202112,V3199,Powys Healthcare - Unspecified Hospital,Bronllys Hospital,Bronnllys,Brecon,Powys,LD3 0LY,51.99435362318841,-3.411075362318841
+202112,V3150,Powys Health Care NHS Trust Comm. Unit,Bronllys Hospital,Bronnllys,Brecon,Powys,LD3 0LY,51.99435362318841,-3.411075362318841
+202112,V2499,North Glamorgan - Unspecified Hospital,St Tydfils Hospital,Upper Thomas Street,Merthyr Tydfil,Mid Glamorgan,CF47 0SJ,51.7479,-3.3778
+202112,V4299,Conwy & Denbigh - Unspecified Hospital,HM Stanley Hospital,St Asaph,Clwyd, ,LL17 0RS,53.25438333333333,-3.413383333333333
+202112,V2307,Links Centre,60 Newport Road,Cardiff, , ,CF24 0DF,51.48,-3.18
+202112,V2615,CARDIFF ROYAL INFIRMARY,NEWPORT ROAD,CARDIFF,, ,CF24 0SZ,51.48,-3.18
+202112,V3212,WEST WALES COMMUNITY DRUGS TEAM,JOBSWELL HOUSE,JOBSWELL ROAD,CARMARTHEN,CARMARTHENSHIRE,SA31 3HB,51.85391,-4.30209
+202112,V4150,North West Wales NHS Trust Comm. Unit,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,GWYNEDD,LL57 2PW,53.203925000000005,-4.106675
+202112,V5150,Swansea NHS Trust Comm. Unit,Community Locality Offices,Cwmbwrla Health Clinic,Caebricks Road  Cwmbwrla,SWANSEA,SA5 8NS,51.64667142857143,-3.9853857142857145
+202112,V1125,TALYGARN UNIT COUNTY HOSPITAL,COED Y GRICK ROAD,GRIFFITHSTOWN,PONTYPOOL,TORFAEN,NP4 5YA,51.718515789473685,-3.030521052631579
+202112,V3116,TY ILLTYD CLINIC,BRIDGE STREET,LLANFAES,BRECON,POWYS,LD3 8AH,51.99435362318841,-3.411075362318841
+202112,V2619,ROATH CLINIC,ALBANY ROAD,CARDIFF,,,CF24 3FR,51.48,-3.18
+202112,V5243,NEATH C.D.A.T.,TREMYR MOR,BETTWS ROAD,BETTWS,BRIDGEND,OO0 0OO,,
+202112,V5115,Community Peadiatrics,Central Clinic,21 Orchard Street,Swansea ,West Glamorgan,SA1 5AT,51.63398,-3.94848
+202112,V2606,Pentwyn Health Centre,BRYNHEULOG,PENTWYN,CARDIFF,,CF23 7JD,51.5144,-3.1545
+202112,V2699,CARDIFF AND VALE UNSPECIFIED HOSPITAL,WHITCHURCH HOSPITAL,PARK ROAD,WHITCHURCH,CARDIFF,CF14 7XB,51.5199,-3.204
+202112,V2609,UNIVERSITY HOSPITAL OF WALES,UNIVERSITY HOSPITAL OF WALES,HEATH PARK,CARDIFF, ,CF14 4XW,51.5199,-3.204
+202112,V2612,SULLY HOSPITAL,HAYES ROAD,SULLY,CARDIFF, ,CF6 2YA,51.407,-3.2209
+202112,V2613,AMY EVANS MEMORIAL HOSPITAL,HOLTON ROAD,BARRY,CARDIFF, ,CF6 6HN,51.3998,-3.2838
+202112,V2614,SEALOCK CLINIC,BURT STREET,BUTETOWN,CARDIFF,,CF10 5FZ,51.48,-3.18
+202112,V2602,WHITCHURCH HOSPITAL ,Whitchurch Hospital,Park Road,Whitchurch Cardiff,South Glamorgan,CF14 7XB,51.5199,-3.204
+202112,V5241,C.D.A.T. NEATH/PORT TALBOT HOME DETTOX,DERWEN ROAD,BRIDGEND,,,OO0 0OO,51.5058,-3.5772
+202112,V2620,LLANTWIT MAJOR CLINIC,BOVERTON ROAD,LLANTWIT MAJOR,,,CF61 1XZ,51.41158,-3.491
+202112,V1137,Ysbyty Aneurin Bevan,THE WORKS,FESTIVAL DRIVE,EBBW VALE,,NP23 8XE,51.7771,-3.2079
+202112,V1138,Ysbyty Ystrad Fawr,Ystrad Fawr Way,Ystrad Mynach,Hengoed,,CF82 7GP,51.648316666666666,-3.2390666666666665
+202112,V2414,Ysbyty Cwm Cynon,NEW ROAD,MOUNTAIN ASH,MID GLAMORGAN,,CF45 4DG,51.66452,-3.3537
+202112,V3114,C.M.H.T. Bro Hafren,Back Lane,Newtown,Powys, ,SY16 1EN,52.50787647058824,-3.3015823529411765
+202112,V2411,Ty Aberaman,FARM ROAD ,ABERAMAN,ABERDARE,MID-GLAMORGAN,CF44 6LJ,51.7327125,-3.48293125
+202112,V3401,Glangwili General Hospital,Dolgwili Road,Carmarthen,Carmarthenshire, ,SA31 2AF,51.85391,-4.30209
+202112,V5250,Bro Morgannwg NHS Trust Comm. Unit,Locality Office,2nd Floor Resource Centre,Moor Road,PORT TALBOT,SA12 7BJ,51.61181666666667,-3.7703
+202112,V4102,Llandudno General Hospital,Hospital Road,Llandudno,Conwy, ,LL30 1LB,53.325,-3.8315
+202112,V4122,Ysbyty Alltwen ,TREMADOG,GWYNEDD,,,LL49 2PW,52.942910000000005,-4.16
+202112,V2623,MARIE CURIE HOSPICE,HOLME TOWERS,MARIE CURIE CANCER HOSPIC,BRIDGEMAN ROAD,PENARTH,CF64 3YR,51.42878,-3.21045
+202112,V5350,Bridgend ABMUHB Comm.Unit,Bridgend Locality,Glanrhyd Hospital,Glanrhyd,BRIDGEND,CF31 4LN,51.507666666666665,-3.577733333333333
+202112,V4501,Palliative Care,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4502,Radiology,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4503,Care of the Elderly,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4504,Respiratory Medicine,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4505,Cardiac Services,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4506,Dermatology,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4507,Rheumatology,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V4508,Renal,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4509,Endocrinology,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4510,Contraception and Sexual Health,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4511,Gastroenterology,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4512,Gastroenterology,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V4513,Neurology,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4514,Anaesthetics (Pain Clinic),Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4515,Haematology,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4516,Paediatrics,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4517,Community Paediatrics,Bodfan Bach,Ysbyty Eryri,Caernarfon,,LL55 2YE,53.12915357142857,-4.195053571428572
+202112,V4519,Community Paediatrics,Y Lawnt,Dolgellau,,,LL40 1EG,52.78853125,-3.90086875
+202112,V4520,CAMHS,Talarfon,Holyhead Rd,Bangor,Gwynedd,LL57 2EE,53.203925000000005,-4.106675
+202112,V4521,Urology,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4522,Cancer Services,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4523,Orthopoedics,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4524,Ear Nose and Throat,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4525,Ophthalmology,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4526,Gynaecology,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4527,Obstetrics,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4528,Vascular Surgery      ,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4529,General Surgery       ,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4530,Dental,Community Dental Service,Bangor Community Dental Clinic,Ysbyty Gwynedd,Bangor,LL57 2PW,53.203925000000005,-4.106675
+202112,V4531,Dental,Community Dental Service,Yr Hen Orsaf,Station Road,Bethesda,LL57 3NE,53.203925000000005,-4.106675
+202112,V4532,Dental,Community Dental Service,Ysbyty Bryn Y Neuadd,Llanfairfechan,,LL33 0HH,53.2578,-3.9742
+202112,V4533,Dental,Community Dental Service,Health Centre,Penymynydd Road,Llanfairpwll,LL61 5YZ,53.1912,-4.267242857142857
+202112,V4534,Dental,Community Dental Service,Wynne Road,Blaenau Ffestiniog,,LL41 3DW,52.95797,-3.94751
+202112,V4535,Dental,Community Dental Service,Dental Clinic,Dolgellau Hospital,Hospital Drive,LL40 1NT,52.78853125,-3.90086875
+202112,V4536,Dental,Community Dental Service,Ysbyty Penrhos Stanley,Beach Road,Holyhead,LL65 2QA,53.28968620689656,-4.534455172413793
+202112,V4537,Dental,Community Dental Service,Bodafon,Eryri Hospital,Caernarfon,LL55 2YG,53.12915357142857,-4.195053571428572
+202112,V4538,Dental,Community Dental Service,Victoria Road,Penygroes,,LL54 6HD,53.01643928571429,-4.2483
+202112,V4539,Dental,Community Dental Service,Ala Road,Pwllheli,,LL53 5BL,52.89524166666667,-4.493856666666668
+202112,V4540,Trauma & Orthopaedic,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4541,Emergency Department,Ysbyty Gwynedd,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4543,Adult CMHT Hergest,Hergest Unit,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4544,Adult CMHT Alltwen,Ysbyty Alltwen,Tremadog,Porthmadog,,LL49 9AQ,52.942910000000005,-4.16
+202112,V4545,Adult CMHT S Gwynedd,South Gwynedd MHT,Plas Brith,Lombard Street,Dolgellau,LL40 1DU,52.78853125,-3.90086875
+202112,V4546,Adult CMHT Conwy west,Roslin Mental Health,Resource Centre,Nant y Gamar Rd,Llandudno,LL30 1YE,53.325,-3.8315
+202112,V4547,Memory Clinic Hergest,Hergest Unit,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4548,SMS Bron Castell,Bron Castell,Segontium Terrace,Caernarfon,,LL55 2PH,53.12915357142857,-4.195053571428572
+202112,V4550,Adult LD BYN  ,Bryn Y Neuadd Hospital,Llanfairfechan,,,LL33 0HH,53.2578,-3.9742
+202112,V4552,HTT Hergest,Hergest Unit,Penrhosgarnedd,Bangor,Gwynedd,LL57 2PW,53.203925000000005,-4.106675
+202112,V4601,Palliative Care,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4602,Care of the Elderly,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4603,Respiratory Medicine,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,v4604,Cardiac Services,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,v4605,Dermatology,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4606,Rheumatology,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4607,Renal,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4608,Endocrinology,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4609,Contraception and Sexual Health,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4610,Gastroenterology,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4611,Neurology,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4612,Anaesthetics (Pain Clinic),Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4613,Haematology,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4614,Paediatrics,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4615,Community Paediatrics,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4616,Urology,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4617,Cancer Services,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4618,Orthopaedics,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4619,Ear Nose and Throat,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4620,Ophthalmology,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4621,Gynaecology,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4622,Obstetrics,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4623,Dental,N Wales Community Dental,Buckley Medical Centre,Altami Road,Buckley,CH7 3PG,53.17209696969697,-3.163118181818182
+202112,V4624,Dental,N Wales Community Dental,Deeside Community Hospital,Plough Lane,Deeside,CH5 1XS,53.19930000000001,-3.03614
+202112,V4625,Dental,N Wales Community Dental,Borough Grove Clinic,,Flint,CH6 5DR,53.255125,-3.1489
+202112,V4626,Dental,N Wales Community Dental,Holywell Community Hospital,Halkyn Road,Holywell,CH8 7TZ,53.2939,-3.261017391304348
+202112,V4627,Dental,N Wales Community Dental,High Street ,,Ruabon,LL14 6NH,52.98906111111111,-3.0515166666666667
+202112,V4628,Dental,N Wales Community Dental,St David’s Terrace,Saltney,Chester,CH4 0AF,53.15806666666666,-2.953475
+202112,V4629,Dental,N Wales Community Dental,Gwen Am Byth  Unit 4,Deeside Enterprise Centre,Shotton,CH5 1PP,53.19930000000001,-3.03614
+202112,V4630,Dental,N Wales Community Dental,Wrexham Dental Centre,Grove Road,Wrexham,LL11 1DY,53.064506666666674,-3.052973333333333
+202112,V4631,Dental,N Wales Community Dental,Prince Charles Road,Caia Park,Wrexham,,,
+202112,V4632,Dental,N Wales Community Dental,Gwen Am Byth  Unit 3,Redwither Business Park,Wrexham,LL13 9UL,52.9917619047619,-2.9116809523809524
+202112,V4634,Trauma & Orthopaedic,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4635,Emergency Department,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4636,Wrexham CDAT  The Elms (SMS),The Elms,Rhosddu Road,,Wrexham,,,
+202112,V4640,HTT Wrexham,Heddfan Unit,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4641,OPMH Wrexham,Heddfan Unit,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4643,CAMHS Child Health Centre  Wrexham,Wrexham Child Health Centre,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4644,Memory Clinic - Wrexham,Heddfan Unit,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4645,Memory Clinic - Deeside,Wepre House,Wepre Drive,Connah's Quay,Flintshire ,CH5 4HA,53.19930000000001,-3.03614
+202112,V4646,Adult CMHT  Wrexham,Ty Derbyn,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4647,Adult CMHT Flint and Mold,Pwllglas Resource Centre,Pwll Glas Road,,Mold,CH7 1RA,53.17209696969697,-3.163118181818182
+202112,V4648,Adult CMHT Deeside,Aston House,Deeside Community Hospital ,Plough Lane,Deeside,CH5 1XS,53.19930000000001,-3.03614
+202112,V4649,Adult LD - Wrexham,Greenacres,67 Rhosddu Road,,Wrexham,,,
+202112,V4650,Adult LD - Mold,County Offices,,,Mold,CH7 6NN,53.17209696969697,-3.163118181818182
+202112,V4651,Wrexham Community Rehab Team,Swn y Coed,Grove Road,,Wrexham,,,
+202112,V4401,Palliative Care,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4402,Palliative Care,St Kentigern's Hospice,Upper Denbigh Road,St Asaph,,LL17 0RS,53.25438333333333,-3.413383333333333
+202112,V4403,Palliative Care,St David’s Hospice,Abbey Rd,Llandudno,,LL30 2EN,53.325,-3.8315
+202112,V4404,Radiology,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4405,Care of the Elderly,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4406,Respiratory Medicine,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4407,Cardiac Services,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4408,Dermatology,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4409,Rheumatology,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4410,Renal,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4411,Endocrinology,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4412,Contraception and Sexual Health,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4413,Contraception and Sexual Health,Colwyn Bay Sexual Health Clin,Colwyn Bay Hospital,Hesketh Road,Colwyn Bay,LL29 8AY,53.283275,-3.6966
+202112,V4414,Contraception and Sexual Health,Rhyl Sexual Health Clinic,Royal Alexandra Hospital,Marine Drive,Rhyl,LL18 3AS,53.29182,-3.45482
+202112,V4415,Gastroenterology,Glan Clwyd Hospital,Bodelwyddan,Bodelwyddan,Rhyl,LL18 5UJ,53.29182,-3.45482
+202112,V4416,Neurology,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4417,Anaesthetics (Pain Clinic),Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4418,Haematology,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4419,Paediatrics,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4420,Community Paediatrics,Denbighshire Child Health Team,Royal Alexandra Hospital,Marine Drive,Rhyl,LL18 3AS,53.29182,-3.45482
+202112,V4421,Community Paediatrics,Conwy Child Health Team ,Colwyn Bay Community Hospital,Hesketh Road,Colwyn Bay,LL29 8AY,53.283275,-3.6966
+202112,V4422,CAMHS,NWAS In-Patients,Abergele Hospital,Llanfair Road,Abergele,LL22 8DP,53.20816315789474,-3.6482
+202112,V4423,CAMHS,NWAS KITE Team,Abergele Hospital,Llanfair Road,Abergele,LL22 8DP,53.20816315789474,-3.6482
+202112,V4424,CAMHS,Denbighshire CAMHS,Royal Alexandra Hospital,Marine Drive,Rhyl,LL18 3AS,53.29182,-3.45482
+202112,V4425,CAMHS,Denbighshire CAMHS,Denbighshire Children's Centre,Hyfrydle,Lawnt,LL16 4ST,53.170152173913046,-3.4313173913043475
+202112,V4426,CAMHS,Conwy CAMHS,Mostyn Suite,Llandudno General Hospital,Llandudno,LL30 1LB,53.325,-3.8315
+202112,V4427,Urology,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4428,Cancer Services,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4429,Orthopaedics,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4430,Ear Nose and Throat,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4431,Ophthalmology,Abergele Hospital,Llanfair Road,Abergele,,LL22 8DP,53.20816315789474,-3.6482
+202112,V4432,Gynaecology,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4433,Obstetrics,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4434,Dental,N Wales Com Dental Service,67 Market Street,Abergele,,LL22 7BP,53.20816315789474,-3.6482
+202112,V4435,Dental,N Wales Com Dental Service,Colwyn Bay Community Hospital,Bryn Avenue,Colwyn Bay,LL29 8AY,53.283275,-3.6966
+202112,V4436,Dental,N Wales Com Dental Service,Denbigh Clinic ,Denbigh Infirmary ,Ruthin Road,LL16 3ES,53.170152173913046,-3.4313173913043475
+202112,V4437,Dental,N Wales Com Dental Service,Maes Derw,Llandudno Junction,,LL31 9AL,53.29415,-3.81595
+202112,V4438,Dental,N Wales Com Dental Service,King’s Street,Prestatyn,,LL19 9AA,53.3274,-3.408033333333333
+202112,V4439,Dental,N Wales Com Dental Service,Alexandra Dental Centre,Royal Alexandra Hospital,Rhyl,LL18 3AS,53.29182,-3.45482
+202112,V4440,Dental,N Wales Com Dental Service,Corwen Mobile Dental Unit,Green Lane,Corwen,LL21 0DN,52.975585714285714,-3.389057142857143
+202112,V4441,Dental,N Wales Com Dental Service,Mount Street,Ruthin,,LL15 1BG,53.09201875,-3.3377625
+202112,V4442,Emergency Department,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V4443,CMHT North Denbighshire (Hafod),Hafod,Beechwood Road,Rhyl,,LL18 3UE,53.29182,-3.45482
+202112,V4444,CMHT South Denbighshire (TDC),Tim Dyffryn Clwyd,Middle Lane,Denbigh,,LL16 3UR,53.170152173913046,-3.4313173913043475
+202112,V4445,CMHT Conwy (NYG) ,Nant-y-Glyn,10 Nant-Y-Glyn Road,Colwyn Bay,,LL29 7UR,53.283275,-3.6966
+202112,V4446,OPMH Conwy East (BHU),Bryn Hesketh Unit,Hesketh Road,Colwyn Bay,,LL29 8AT,53.283275,-3.6966
+202112,V4447,OPMH North Denbighshire (GT),Glan Traeth Day Services,Glan Traeth Day Hospital,2 Alexandra Road,Rhyl,LL18 3AS,53.29182,-3.45482
+202112,V4448, Community Rehab Team (central) ,Glan Traeth OPMH CMHT,Old Ward 1st Floor,Glan Traeth Day Hospital,2 Alexandra Road,LL18 3AS,53.29182,-3.45482
+202112,V4449,Perinatal MH Team,Llys Dyfrig,Ffordd Orsedd,Llandudno,,LL30 1LA,53.325,-3.8315
+202112,V4450,HTT Central team (Ablett),Tegid Ward,Ablett Unit,Glan Clwyd Hospital,Bodelwyddan,LL18 5UJ,53.29182,-3.45482
+202112,V4452,OPMH Conwy West (Bodnant),Bodnant Memory Clinic,Bodnant Unit,Maesdu Road,Llandudno,LL30 1QY,53.325,-3.8315
+202112,V4453,OPMH South Denbighshire (Ruthin),Ruthin Memory Clinic,Ruthin Community Hospital,Llanrhydd Street,Ruthin,LL15 1PS,53.09201875,-3.3377625
+202112,V4454,SMS Denbighshire,Denbighshire SMS,5-7 Brighton Road,Rhyl,,LL18 3EY,53.29182,-3.45482
+202112,V4455,SMS Conwy,Conwy SMS,The Dawn Centre,35-37 Princes Drive,Colwyn Bay,LL29 8PD,53.283275,-3.6966
+202112,V4456,LD (Adult) Denbighshire,Den Complex Disability Team,Social Services,Denbighshire County Council,PO Box 62,LL15 9AZ,53.09201875,-3.3377625
+202112,V4457,LD (Adult) Conwy,Conwy LD Team,Social Care&Education Services,Government Buildings,Dinerth Road,LL28 4UL,53.28348999999999,-3.7664
+202112,V4451,LIAISON team Central (Ablett),Ablett Unit,Glan Clwyd Hospital,Bodelwyddan,,LL18 5UJ,53.29182,-3.45482
+202112,V4458,General Surgery,Glan Clwyd Hospital,Bodelwyddan,Bodelwyddan,Rhyl,LL18 5UJ,53.29182,-3.45482
+202112,V4460,Breast Surgery,Glan Clwyd Hospital,Bodelwyddan,Bodelwyddan,Rhyl,LL18 5UJ,53.29182,-3.45482
+202112,V4463,Minor Injuries Unit,Holywell Community Hospital,Halkyn Road,Holywell,FLINTSHIRE,CH8 7TZ,53.2939,-3.261017391304348
+202112,V4653,Lymphoedema,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham ,,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4654,Pre-operative Assessment Clinic,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham ,,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4656,Maxillo Facial,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham ,,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4553,General Surgery,YSBYTY GWYNEDD,PENRHOSGARNEDD,BANGOR,GWYNEDD,LL57 2PW,53.203925000000005,-4.106675
+202112,V4554,Pre-operative Assessment Clinic,YSBYTY GWYNEDD,PENRHOSGARNEDD,BANGOR,GWYNEDD,LL57 2PW,53.203925000000005,-4.106675
+202112,V4555,Minor Injuries Unit,Pwllheli,Gwynedd, , ,LL53 6TT,52.89524166666667,-4.493856666666668
+202112,V4556,Minor Injuries Unit,Dolgellau,Gwynedd, , ,LL40 1NT,52.78853125,-3.90086875
+202112,V4560,Minor Injuries Unit,PRIMARY CARE CENTRE,LLANDUDNO GENERAL HOSPITAL,HOSPITAL ROAD,LLANDUDNO CONWY,LL30 1LB,53.325,-3.8315
+202112,V4559,Minor Injuries Unit,Ysbyty Penrhos Stanley,Beach Road,Holyhead,ANGLESEY,LL65 2QA,53.28968620689656,-4.534455172413793
+202112,V7102,Glanrhyd Hospital,Pen- Y-Fai,Bridgend,Mid Glamorgan, ,CF31 4LN,51.507666666666665,-3.577733333333333
+202112,V4557,Minor Injuries Unit,Ysbyty Alltwen,Tremadog,Porthmadog,,LL49 9AQ,52.942910000000005,-4.16
+202112,V1112,Caerphilly & District Miners Hospital,St. Martins Road,Caerphilly,Mid Glamorgan, ,CF83 2WW,51.59288333333333,-3.2333833333333337
+202112,V5230,Community Alcohol&Drugs Team(BRIDGEND),DERWEN ROAD,BRIDGEND,,,CF31 1LH,51.507666666666665,-3.577733333333333
+202112,V2640,Park View Health Centre,Treseder Way,Caerau,Cardiff,,CF5 5WF,51.471875,-3.275816666666667
+202112,V4466,Neurodevelopment Service,Colwyn Bay Health Centre,Eirias Park Health suite,Colwyn Bay,,LL29 7SP,53.283275,-3.6966
+202112,V4563,Gynaecology,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V2603,Pendine Centre,124-126 Cowbridge Road West,Ely,Cardiff,,CF5 5BT,51.471875,-3.275816666666667
+202112,V3115,Ynys-Y-Plant,Plantation Lane,Newtown,Powys, ,SY16 1LH,52.50787647058824,-3.3015823529411765
+202112,V4659,YSBYTY ENFYS DEESIDE,Ysbyty Enfys Glanhau Dyfrdwy,Chester Road West,Queensferry,,CH5 1SA,53.19930000000001,-3.03614
+202112,V3416,YSBYTY ENFYS SCARLETS,Pemberton Park,Llanelli,,,SA14 9UZ,51.76378235294118,-4.089482352941177
+202112,V3418,YSBYTY ENFYS LLANELLI,PARK CRES,LLANELLI,CARMARTHENSHIRE,DYFED,SA15 3AE,51.74003,-4.187250000000001
+202112,V2604,Community Addictions Unit,Cardiff Royal Infirmary,Longcross Street,Cardiff,,CF24 0SZ,51.48,-3.18
+202112,V4565,Opthalmology,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V4566,General Surgery,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V4570,Endocrinology,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V2601,Hamadryad Centre,Hamadryad Road,Butetown,Cardiff,,CF10 5UY,51.48,-3.18
+202112,V4469,Holywell Hospital,Halkyn Road,Holywell,FLINTSHIRE,,CH8 7TZ,53.2939,-3.261017391304348
+202112,V4470,Llandudno General Hospital,Hospital Road,Llandudno,Conwy, ,LL30 1LB,53.325,-3.8315
+202112,V3419,YSBYTY ENFYS SELWYN SAMUEL,8 PARK CRES,LLANELLI,CARMARTHENSHIRE,DYFED,SA15 3AE,51.74003,-4.187250000000001
+202112,V5117,BAY FIELD HOSPITAL,FFORDD AMAZON,CRYMLYN BURROWS,SKEWEN,SWANSEA,SA1 8QX,51.63398,-3.94848
+202112,V7103,Maesteg Community Hospital,Neath Road,Maesteg,, ,CF34 9PW,51.6030625,-3.6485
+202112,V5118,Llwyneryr Unit,Clasemont Road,Morriston,Swansea,,SA6 6AH,51.6766,-3.9147
+202112,V1160,Ysbyty'r Tri Chwm,College Road,Ebbw Vale,,,NP23 6GT,51.7771,-3.2079
+202112,V2104,Ysbyty Cwm Rhondda,Partridge Road,Llwynypia,Rhondda Cynon Taf, ,CF40 2LX,51.627316666666665,-3.461883333333333
+202112,V2611,Llandough Hospital,Penlan Road,Llandough,,,CF64 2XX,51.42878,-3.21045
+202112,V1999,Aneurin Bevan (Unidentified),St Cadoc's Hospital,Lodge Road,Caerleon,NEWPORT,NP18 3XQ,51.6084,-2.9435
+202112,V7101,Princess Of Wales Hospital,Coity Road,Bridgend,Mid Glamorgan, ,CF31 1RQ,51.507666666666665,-3.577733333333333
+202112,V4473,CENTRAL DIETETICS,Central BCU,Colwyn Bay OPD,Hesketh Road,Colwyn Bay,LL29 8AY,53.283275,-3.6966
+202112,V2110,Cwm Taf Morgannwg CAMHS,Tonteg Child and Family Clinic,Church Road,Tonteg,PONTYPRIDD,CF38 1HE,51.5543,-3.34528
+202112,V4633,UPPER GI SURGERY,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham ,Clwyd,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4459,Maxillo Facial,Glan Clwyd Hospital,Bodelwyddan,Bodelwyddan,Rhyl,LL18 5UJ,53.29182,-3.45482
+202112,V4461,Vascular,Glan Clwyd Hospital,Bodelwyddan,Bodelwyddan,Rhyl,LL18 5UJ,53.29182,-3.45482
+202112,V4652,General Surgery,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham ,Clwyd,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4655,Minor Injuries Unit,Mold Community Hospital,Ash Grove,Mold,,CH7 1XG,53.17209696969697,-3.163118181818182
+202112,V4657,Breast Surgery,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4658,Vascular,Wrexham Maelor Hospital,Croesnewydd Road,,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4462,Minor Injuries Unit,Denbigh Community Hospital,Ruthin Road,Denbigh,DENBIGHSHIRE,LL16 3ES,53.170152173913046,-3.4313173913043475
+202112,V4558,Minor Injuries Unit,Tywyn,Gwynedd, , ,LL36 9HH,52.60728,-4.059706666666667
+202112,V4464,Ambulatory Care Unit,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V7150,Bridgend CTMUHB Comm.Unit,Bridgend Locality,Glanrhyd Hospital,Glanrhyd,BRIDGEND,CF31 4LN,51.507666666666665,-3.577733333333333
+202112,V4465,Macmillan Lymphoedema,Colwyn Bay Community Hospital,Hesketh Road,Colwyn Bay,,LL29 8AY,53.283275,-3.6966
+202112,V7104,Community Alcohol&Drugs Team(BRIDGEND),CELTIC COURT,TREMAINS ROAD,BRIDGEND,,CF31 1TZ,51.507666666666665,-3.577733333333333
+202112,V4637,Deeside CDAT  Shotton (SMS),Deeside Counselling Centre,Rowleys Drive,Shotton,,CH5 1PU,53.19930000000001,-3.03614
+202112,V4561,UROLOGY,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V4567,ENT,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V4568,MaxFax,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V2605,Gabalfa Clinic,213 North Road,Gabalfa,Cardiff,,CF14 3AG,51.5199,-3.204
+202112,V4578,Maxillo Facial,NORTH WALES GP 00H SERVICE,YSBYTY GWYNEDD,PENRHOSGARNEDD,BANGOR  GWYNEDD,LL57 2PW,53.203925000000005,-4.106675
+202112,V4467,Denbigh Hospital,Ruthin Road,Denbigh,DENBIGHSHIRE,,LL16 3ES,53.170152173913046,-3.4313173913043475
+202112,V4471,Colwyn Bay Hospital,Hesketh Road,Colwyn Bay,Conwy, ,LL29 8AY,53.283275,-3.6966
+202112,V4579,Ysbyty Enfys Bangor,Canolfan Brailsford,Ffriddoedd Road,Bangor,,LL57 3EH,53.203925000000005,-4.106675
+202112,V4472,YSBYTY ENFYS LLANDUDNO,VENUE CYMRU,THE PROMENADE,PENRHYN CRESCENT,LLANDUDNO,LL30 1BB,53.325,-3.8315
+202112,V5121,Child & Young People's Therapy Service,The Children's Centre,Neath Port Talbot Hospital,Baglan Way,PORT TALBOT,SA12 7BX,51.61181666666667,-3.7703
+202112,V5120,Child & Young People's Therapy Service,The Children's Centre,Hafan Y Mor,Singleton Hospital,SWANSEA,SA2 8QA,51.61628,-4.04254
+202112,V1170,Adult Weight Management Service,St Cadoc's Hospital,Lodge Road,Caerleon,NEWPORT,NP18 3XQ,51.6084,-2.9435
+202112,V4638,Colorectal Surgery,Wrexham Child Health Centre,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4642,GASTRO SURGERY,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham ,Clwyd,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V2624,CARDIFF ROYAL INFIRMARY,CARDIFF ROYAL INFIRMARY,2ND FLOOR,GLOSSOP ROAD,CARDIFF,CF24 0JT,51.48,-3.18
+202112,V4573,Anaesthetics (Pain Clinic),Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V4574,Orthopaedics,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V4468,Ruthin Hospital,Llanrhydd Street,Ruthin,Denbighshire,,LL15 1PS,53.09201875,-3.3377625
+202112,V3417,YSBYTY ENFYS CAERFYRDDIN,Llansteffan Road,Llanelli,,,SA31 3NQ,51.85391,-4.30209
+202112,V1141,The Grange University Hospital,Llanyrafon,Cwmbran,,,NP44 2XJ,51.65070000000001,-3.0178
+202112,V4639,Plastic Surgery,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham ,Clwyd,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V4580,ENDOSCOPY,YSBYTY GWYNEDD,PENRHOSGARNEDD,BANGOR,GWYNEDD,LL57 2PW,53.203925000000005,-4.106675
+202112,V2650,CARDIFF AND VALE NHS TRUST Comm. Unit,Cardiff and Vale UHB PCIC,WOODLAND HOUSE,MAES Y COED ROAD HEATH,CARDIFF,CF24 0SZ,51.48,-3.18
+202112,V2625,HADYN ELLIS BUILDING,MAINDY ROAD,CARDIFF,,,CF24 4HQ,51.48,-3.18
+202112,V4549,SMS Isgraig,Isgraig,Llangefni,,,LL77 7PS,53.27263333333334,-4.3066
+202112,V1101,Royal Gwent Hospital,Cardiff Road,Newport,, ,NP20 2UB,51.5877,-2.9984
+202112,V4562,Cardiology,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V4569,Renal,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V4571,Colorectal Surgery,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V4572,Respiratory,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V4575,Breast Clinic,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V4576,Care of the Elderly,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V4577,Haematology,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V2607,Links Centre,Old CRI Buildings,Longcross Street,Cardiff,,CF24 0SZ,51.48,-3.18
+202112,V2610,Barry Hospital,Colcot Road,Barry,, ,CF62 8YH,51.4027,-3.37145
+202112,V2660,Cardiff & Vale Community Dental Service,University Dental Hospital,Cardiff,,,CF14 4XY,51.5199,-3.204
+202112,V4215,Ablett Unit Bodelwyddan,Ysbyty Glan Clwyd,Sarn Lane Bodelwyddan,Clwyd, ,LL18 5UJ,53.29182,-3.45482
+202112,V2626,Avon House,3rd FLOOR,AVON HOUSE,PENARTH,CARDIFF,CF64 2EZ,51.42878,-3.21045
+202112,V1105,Chepstow Community,Tempest Way,Chepstow,, ,NP16 5YX,51.6409,-2.6768
+202112,V4542,Adult CMHT Cefni ,Cefni Hospital,Bridge Street,Llangefni,Anglesey,LL77 7PP,53.27263333333334,-4.3066
+202112,V4518,Community Paediatrics,Ty Derwydd,Ysbyty Cefni,Llangefni,,LL77 7PP,53.27263333333334,-4.3066
+202112,V4551,OPMH Cefni,Cefni Hospital,Bridge Street,Llangefni,Anglesey,LL77 7PP,53.27263333333334,-4.3066
+202112,V4564,Dermatology,Ysbyty Llandudno Hospital,Ffordd Ysbyty,Llandudno,,LL30 1LB,53.325,-3.8315
+202112,V4104,Ysbyty Bryn Beryl,Caernarfon Road,Pwllheli, , ,LL53 6TT,52.89524166666667,-4.493856666666668
+202112,V1119,Maindiff Court Hospital,Ross Road,Abergavenny, , ,NP7 8NF,51.85129210526316,-3.0386236842105263
+202112,7A1LA,Mold Clinic,Mold,Clwyd, , ,Ch7 1L,53.17209696969697,-3.163118181818182
+202112,7A6L8,Clytha Clinic,26 Clytha Park Road,Newport,Gwent, , ,51.5877,-2.9984
+202112,7A6LC,Cwmbran Town Centre Clinic,Caradoc Road,Cwmbran,Gwent, , ,51.6545,-3.0228
+202112,7A6M2,Pontllanfraith Health Centre,Blackwood Road,Pontllanfraith,Gwent, , ,,
+202112,7A2KD,Swn-Y-Gwynt Day Hospital,Tir-Y-Dail,Ammanford,Dyfed, , ,51.7928,-3.9883
+202112,7A2P1,Brynmair Clinic,Goring Road,Llanelli,Dyfed, , ,51.6819,-4.1619
+202112,7A4BW,Cardiff Royal Infirmary,Newport Road,Cardiff,South-Glamorgan, ,CF24 0SZ,51.48,-3.18
+202112,7A448,Pentwyn Health Centre,Brynheulog,Pentwyn ,Cardiff,South-Glamorgan ,CF23 7JD,51.5144,-3.1545
+202112,7A3B7,Princess Of Wales Hospital,Coity Road,Bridgend,Mid Glamorgan, ,CF31 1RQ,51.507666666666665,-3.577733333333333
+202112,7A3B9,Maesteg General Hospital,Neath Road,Maesteg,Mid Glamorgan, ,CF34 9PW,51.6030625,-3.6485
+202112,7A5DK,Dewi Sant Hospital,Albert Road,Pontypridd,Mid Glamorgan, ,CF37 1LB,51.613815384615386,-3.3598076923076925
+202112,7A5BK,Pontypridd & District Hospital,The Common,Pontypridd,Mid Glamorgan, ,CF37 4AL,51.613815384615386,-3.3598076923076925
+202112,7A4BV,University Hospital Of Wales,Heath Park,Cardiff,South-Glamorgan, ,CF14 4XW,51.5199,-3.204
+202112,7A5NV,Tonypandy Health Centre,Dewinton Field,Tonypandy,Mid Glamorgan, ,CF40 1LL,51.627316666666665,-3.461883333333333
+202112,7A5NY,Ynyswen Clinic,Ynyswen Road,Treorchy Rhondda,Mid Glamorgan, ,CF42 6ED,51.66798333333333,-3.5247833333333336
+202112,7A5DV,Ysbyty George Thomas,Cwm Parc Road,Ystrad Fechan Treorchy,Mid Glamorgan, ,CF42 6YG,51.66798333333333,-3.5247833333333336
+202112,7A5NX,Tylorstown Clinic,Ferndale Road,Tylorstown Rhondda,Mid Glamorgan, ,CF43 3HB,51.66792,-3.4671
+202112,7A5N6,Aberdare Health Centre,High Street,Aberdare,Mid Glamorgan, ,CF44 7AA,51.7327125,-3.48293125
+202112,7A5N5,Abercynon Health Centre,Ynysmeurig Road,Abercynon,Mid Glamorgan, ,CF45 4SY,51.66452,-3.3537
+202112,7A4RC,Preswylfa Child & Family Centre,Clive Road,Canton ,Cardiff,South Glamorgan ,CF5 1GN,51.471875,-3.275816666666667
+202112,7A4PA,Amy Evans Memorial Hospital,Holton Road,Barry,South-Glamorgan, ,CF6 6HN,51.3998,-3.2838
+202112,7A4CH,The Barry Hospital,Colcot Road,Barry,South-Glamorgan, ,CF62 8HE,51.4027,-3.37145
+202112,7A6MH,Bargoed Clinic,Hanbury Square,Bargoed,Mid Glamorgan, ,CF8  0QQ,51.7105,-3.265
+202112,7A1CC,Deeside Community Hospital,Plough Lane,Higher Shotton,Deeside ,Clwyd,CH5 1XS,53.19930000000001,-3.03614
+202112,7A1L5,Connahs Quay Clinic,Civic Centre,Wepre Lane ,Connahs Quay,Clwyd,CH5 4HA,53.19930000000001,-3.03614
+202112,7A1AA,Flint Community Hospital,Cornist Road,Flint,Clwyd, ,CH6 5HG,53.255125,-3.1489
+202112,7A1AD,Mold Community Hospital,Ash Grove,Mold,Clwyd, ,CH7 1RH,53.17209696969697,-3.163118181818182
+202112,7A1AB,Holywell Community Hospital,Pen-Y-Maes Road,Holywell,Clwyd, ,CH8 7SA,53.2939,-3.261017391304348
+202112,7A7BN,Llandrindod Wells Hospital,Temple Street,Llandrindod Wells,Powys, ,LD1 5HF,52.2618,-3.3257903225806453
+202112,7A7BU,Builth Wells Cottage Hospital,Builth Wells,Powys,Builth Wells, ,LD2 3HE,52.104838461538456,-3.3634192307692308
+202112,7A7EH,Bronllys Hospital,Bronllys,Powys,Bronllys Brecon Powys, ,LD3 0LS,51.99435362318841,-3.411075362318841
+202112,7A7EG,Knighton Hospital,Ffryd Road,Knighton,Powys, ,LD7 1DF,52.38221764705882,-3.0686
+202112,7A1A4,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham,Clwyd, ,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,7A1A7,Chirk Community Hospital,Chirk,Clwyd,Chirk, ,LL14 5LN,52.98906111111111,-3.0515166666666667
+202112,7A1RF,Ruabon Clinic,High Street,Ruabon,Clwyd, ,LL14 6NH,52.98906111111111,-3.0515166666666667
+202112,7A1AF,Ruthin Community Hospital,Llanrhydd Street,Ruthin,Clwyd, ,LL15 1PS,53.09201875,-3.3377625
+202112,7A1A9,Denbigh Community Hospital,Ruthin Road,Denbigh,Clwyd, ,LL16 3ES,53.170152173913046,-3.4313173913043475
+202112,7A1A1,Ysbyty Glan Clwyd,Sarn Lane,Bodelwyddan,Clwyd, ,LL18 5UJ,53.29182,-3.45482
+202112,7A1AE,Prestatyn Community Hospital,49 The Avenue,Prestatyn,Clwyd, ,LL19 9RD,53.3274,-3.408033333333333
+202112,7A1AC,Llangollen Community Hospital,Abbey Road,Llangollen,Clwyd, ,LL20 8SP,52.955846666666666,-3.16774
+202112,7A1A2,Abergele Hospital,Llanfair Road,Abergele,Clwyd, ,LL22 8DP,53.20816315789474,-3.6482
+202112,7A1A8,Colwyn Bay Community Hospital,Hesketh Road,Colwyn Bay,Clwyd, ,LL29 8AY,53.283275,-3.6966
+202112,7A1GE,Bryn-Y-Neuadd Hospital,Llanfairfechan,Gwynedd, , ,LL33 0HH,53.2578,-3.9742
+202112,7A1AZ,Ffestiniog Memorial Hospital,Blaenau Ffestiniog,Gwynedd, , ,LL41 3DW,52.95797,-3.94751
+202112,7A1DD,Cefni Hospital,Llangefni,Gwynedd, , ,LL54 5HL,53.01643928571429,-4.2483
+202112,7A1DG,Eryri Hospital,Caernarfon,Gwynedd, , ,LL55 2YE,53.12915357142857,-4.195053571428572
+202112,7A6M5,Risca Health Centre,Cromwell Road,Risca,Gwent, ,NP11 6YE,51.6439,-3.1317
+202112,7A6AS,County Hospital,Griffithstown,Pontypool,Gwent, ,NP4 5YA,51.718515789473685,-3.030521052631579
+202112,7A6G5,Llanfrechfa Grange Hospital,Llanfrechfa,Cwmbran,Gwent, ,NP44 5YN,51.65070000000001,-3.0178
+202112,7A2D9,Mynydd Mawr Hospital,Upper Tumble,Llanelli,Dyfed,West Glamorgan,SA14 6BU,51.76378235294118,-4.089482352941177
+202112,7A2AL,Prince Philip Hospital,Bryngwynmawr,Dafen Llanelli,Dyfed,Dyfed,SA14 8QF,51.76378235294118,-4.089482352941177
+202112,7A2MJ,Llwynhendy Health Centre,Swansea Road,Llanelli,Dyfed, ,SA14 9BN,51.76378235294118,-4.089482352941177
+202112,7A2MG,Elizabeth Williams Health Clinic,Mill Lane,Llanelli,Dyfed, ,SA15 3SE,51.74003,-4.187250000000001
+202112,7A2E1,Amman Valley Hospital,Folland Road,Glanamman,Dyfed,Dyfed,SA18 2BQ,51.791845,-3.966785
+202112,7A2LW,Meddygfa Teilo Clinic,Crescent Road,Llandeilo,Dyfed, ,SA19 6HL,51.92279722222222,-3.950983333333333
+202112,7A3C6,Hill House Hospital,Cockett Road,Swansea,West-Glamorgan, ,SA2 0FB,51.61628,-4.04254
+202112,7A3C4,Singleton Hospital,Sketty Lane,Swansea,West-Glamorgan, ,SA2 8QA,51.61628,-4.04254
+202112,7A2AH,Llandovery Hospital,Llanfair Road,Llandovery,Dyfed, ,SA20 0LA,52.01661333333333,-3.785813333333333
+202112,7A3EM,Gorseinon Hospital,Brynawel,Gorseinon ,Swansea ,West-Glamorgan,SA4 2UU,51.670225,-4.059125
+202112,7A2D6,Aberaeron Hospital,Aberaeron,Dyfed,Aberaeron, ,SA46 0JJ,52.2425,-4.2587
+202112,7A2MA,Lampeter Health Clinic,Lampeter,Dyfed,Lampeter, ,SA48 7BJ,52.154116,-4.1118
+202112,7A3C8,Clydach War Memorial Hospital,Quarr Road,Clydach,Swansea,West Glamorgan,SA6 5DT,51.6766,-3.9147
+202112,7A3C7,Morriston Hospital,Heol Maes Eglwys,Morriston,Swansea,West Glamorgan,SA6 6NL,51.6766,-3.9147
+202112,7A2BL,Withybush General Hospital,Fishguard Road,Haverfordwest,Pembroke,Dyfed,SA61 2PZ,51.8017,-4.9691
+202112,7A3DQ,Gellinudd Hospital,Lon Catwg,Gellinudd,Pontardawe,West-Glamorgan ,SA8 3DX,51.72245,-3.8458625
+202112,7A7EJ,Ystradgynlais Community Hospital,Glanrhyd Road,Ystradgynlais,Powys, ,SA9 1AE,51.781353333333335,-3.760806666666667
+202112,7A7BR,Montgomeryshire County Infirmary,Llanfair Road,Newtown,Powys, ,SY16 2DW,52.50787647058824,-3.3015823529411765
+202112,7A7BQ,Broddyfi Community Hospital,Machynlleth,Powys,Llanidloes, ,SY20 8AD,52.59227105263158,-3.816673684210527
+202112,7A7BS,Victoria Memorial Hospital,Salop Road,Welshpool,Powys, ,SY21 7DU,52.67081351351352,-3.1976945945945947
+202112,7A2AJ,Bronglais General Hospital,Caradog Road,Aberystwyth,Dyfed, ,SY23 1ER,52.34458541666667,-3.9885
+202112,7A2D8,Tregaron Hospital,Tregaron,Dyfed,Borth Ceredigion, ,SY25 6JP,52.25277692307692,-3.929376923076923
+202112,7A6AM,Nevill Hall Hospital,Brecon Road,Abergavenny,Gwent, ,NP7 7EG,51.85129210526316,-3.0386236842105263
+202112,7A4BX,ROOKWOOD HOSPITAL,FAIRWATER ROAD,LLANDAFF,CARDIFF,,CF5 2YN,51.471875,-3.275816666666667
+202112,7A1DC,Ysbyty Penrhos Stanley,Holyhead,Anglesey,, ,LL65 2QA,53.28968620689656,-4.534455172413793
+202112,7A734,Glan Irfon,Pendre,Builth Wells,Powys,,LD2 3DG,52.104838461538456,-3.3634192307692308
+202112,7A2F4,ST DAVIDS HOSPITAL,ST DAVIDS HOSPITAL,COWBRIDGE ROAD EAST,CANTON,CARDIFF,CF11 9XB,51.48,-3.18
+202112,7A3CJ,NEATH PORT TALBOT HOSPITAL,NEATH PORT TALBOT HOSPITAL,BAGLAN WAY,PORT TALBOT,,SA12 7BX,51.61181666666667,-3.7703
+202112,7A4FJ,MONMOUTH HOUSE,UNIVERSITY HOSPITAL OF WALES,HEATH PARK,CARDIFF, ,CF14 4XW,51.5199,-3.204
+202112,7A4QB,Links Centre,60 Newport Road,Cardiff, , ,CF24 0DF,51.48,-3.18
+202112,7A6AU,Ysbyty Aneurin Bevan,THE WORKS,FESTIVAL DRIVE,EBBW VALE,,NP23 8XE,51.7771,-3.2079
+202112,7A6AV,Ysbyty Ystrad Fawr,Ystrad Fawr Way,Ystrad Mynach,Hengoed,,CF82 7GP,51.648316666666666,-3.2390666666666665
+202112,7A5HA,Ysbyty Cwm Cynon,NEW ROAD,MOUNTAIN ASH,MID GLAMORGAN,,CF45 4DG,51.66452,-3.3537
+202112,7A6AR,Royal Gwent Hospital,Cardiff Road,Newport,, ,NP20 2UB,51.5877,-2.9984
+202112,7A1AX,Ysbyty Bryn Beryl,Caernarfon Road,Pwllheli, , ,LL53 6TT,52.89524166666667,-4.493856666666668
+202112,7A6FN,Maindiff Court Hospital,Ross Road,Abergavenny, , ,NP7 8NF,51.85129210526316,-3.0386236842105263
+202112,V11,Gwent Healthcare NHS Trust ,Mamhilad House,Mamhilad Park Estate,Pontypool, ,NP4 0YP,51.718515789473685,-3.030521052631579
+202112,V19,Aneurin Bevan Unknown Trust,Mamhilad House,Mamhilad Park Estate,Pontypool,Gwent,NP4 0YP,51.718515789473685,-3.030521052631579
+202112,V23,Cardiff and District Community NHS Trust,Trenewydd,Fairwater Road,Llandaff,CARDIFF,CF5 2LD,51.471875,-3.275816666666667
+202112,V25,Velindre NHS Trust,Velindre Hospital,Whitchurch Cardiff,South-Glamorgan, ,CF14 2TL,51.5199,-3.204
+202112,V31,Powys Local Health Board,Bronllys Hospital,Bronllys,Brecon,Powys,LD3 0LY,51.99435362318841,-3.411075362318841
+202112,V33,Ceredigion and Mid Wales NHS Trust,Bronglais General Hosp.,Caradog Road,Aberystwyth,Dyfed,SY23 1ER,52.34458541666667,-3.9885
+202112,V39,Hywel Dda Unknown Trust,St. Davids Hospital,Jobswell Road,Carmarthen, ,SA31 3YH,51.85391,-4.30209
+202112,V42,Conwy and Denbighshire NHS Trust,HM Stanley Hospital,St Asaph,Clwyd, ,LL17 0RS,53.25438333333333,-3.413383333333333
+202112,V49,Betsi Cadwaladr Uni Unknown Trust,Preswylfa,Hendy Road,Mold ,Flintshire,CH7 1PZ,53.17209696969697,-3.163118181818182
+202112,V52,Bro Morgannwg NHS Trust,41 High Street,Swansea, , ,SA1 1LT,51.63398,-3.94848
+202112,V22,University Hospital of Wales & Llandough,University Hosp. Of Wales,Heath Park Cardiff,South-Glamorgan, ,CF14 4XW,51.5199,-3.204
+202112,V26,Cardiff and Vale NHS Trust,WHITCHURCH HOSPITAL,PARK ROAD,WHITCHURCH,CARDIFF,CF14 7XB,51.5199,-3.204
+202112,V21,Pontypridd and Rhondda NHS Trust,Albert Road,Pontypridd,Mid Glamorgan, ,CF37 1LB,51.613815384615386,-3.3598076923076925
+202112,V24,North Glamorgan NHS Trust,St Tydfils Hospital,Upper Thomas Street,Merthyr Tydfil,Mid Glamorgan,CF47 0SJ,51.7479,-3.3778
+202112,V29,Cardiff And Vale Uni Unknown Trust,CHURCHILL HOUSE,CHURCHILL WAY,CARDIFF,SOUTH GLAMORGAN,CF10 2TW,51.48,-3.18
+202112,V32,Pembrokeshire and Derwen NHS Trust,Withybush General Hosp.,Fishguard Road,Haverfordwest Pembroke,Dyfed,SA61 2PZ,51.8017,-4.9691
+202112,V34,Carmarthenshire NHS Trust,West Wales General Hosp.,Carmarthen,Dyfed, ,SA31 2AF,51.85391,-4.30209
+202112,V41,North West Wales NHS Trust,Adjacent Ysbyty Gwynedd,Penrhosgarnedd Bangor,Gwynedd, ,LL57 2PW,53.203925000000005,-4.106675
+202112,V43,North East Wales NHS Trust,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham ,Clwyd,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V51,Swansea NHS Trust,Singleton Hospital,Sketty ,Swansea ,West-Glamorgan,SA2 0FB,51.61628,-4.04254
+202112,V59,Swansea Bay Uni Unknown Trust,41 High Street,Swansea, , ,SA1 1LT,51.63398,-3.94848
+202112,V99,English Nurse Prescribers,Mamhilad House,Mamhilad Park Estate,Pontypool,Gwent,NP4 0YP,51.718515789473685,-3.030521052631579
+202112,V98,English Hospital Prescribers,Mamhilad House,Mamhilad Park Estate,Pontypool,Gwent,NP4 0YP,51.718515789473685,-3.030521052631579
+202112,V69,Powys Teaching Unknown Trust,Mansion House,Bronllys,Brecon,POWYS,LD3 0LS,51.99435362318841,-3.411075362318841
+202112,V79,Cwm Taf Morgannwg Unknown Trust,Albert Road,Pontypridd,Mid Glamorgan, ,CF37 1LB,51.613815384615386,-3.3598076923076925
+202112,V89,Velindre NHS Unknown Trust,2 Charnwood Court,Parc Nantgarw,Cardiff,S Glam,CF15 7QZ,51.5337,-3.2721
+202112,V53,Bridgend Locality ABMUHB,ABERTAWE BRO MORGANNWG UNIV HB,BRIDGEND LOCALITY OFFICE,NORTH COURT   DAVID STREET,BRIDGEND IND ESTATE  BRIDGEND,CF31 3TP,51.507666666666665,-3.577733333333333
+202112,V44,BCUHB Central,Glan Clwyd Hospital,Bodelwyddan,Rhyl,,LL18 5UJ,53.29182,-3.45482
+202112,V45,BCUHB West,YSBYTY GWYNEDD,PENRHOSGARNEDD,BANGOR,GWYNEDD,LL57 2PW,53.203925000000005,-4.106675
+202112,V46,BCUHB East,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham ,,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,V71,Bridgend Locality,NORTH COURT DAVID STREET,BRIDGEND INDUSTRIAL ESTATE,BRIDGEND,,CF31 3TP,51.507666666666665,-3.577733333333333
+202112,C51,Aneurin Bevan LHB,Mamhilad House,Mamhilad Park Estate,Pontypool, ,NP4 0YP,51.718515789473685,-3.030521052631579
+202112,C52,Cwm Taf LHB,Albert Road,Pontypridd,Mid Glamorgan, ,CF37 1LB,51.613815384615386,-3.3598076923076925
+202112,C53,Cardiff & Vale University LHB,University Hosp. Of Wales,Heath Park Cardiff,South-Glamorgan, ,CF14 4XW,51.5199,-3.204
+202112,C54,Cardiff & Vale University LHB,Trenewydd,Fairwater Road,Llandaff,CARDIFF,CF5 2LD,51.471875,-3.275816666666667
+202112,C55,Cwm Taf LHB,St Tydfils Hospital,Upper Thomas Street,Merthyr Tydfil,Mid Glamorgan,CF47 0SJ,51.7479,-3.3778
+202112,C56,Velindre NHS Trust,Velindre Hospital,Whitchurch Cardiff,South-Glamorgan, ,CF14 2TL,51.5199,-3.204
+202112,C57,Cardiff & Vale University LHB,WHITCHURCH HOSPITAL,PARK ROAD,WHITCHURCH,CARDIFF,CF14 7XB,51.5199,-3.204
+202112,C58,Powys Teaching LHB,Bronllys Hospital,Bronllys,Brecon,Powys,LD3 0LY,51.99435362318841,-3.411075362318841
+202112,C59,Hywel Dda LHB,Withybush General Hosp.,Fishguard Road,Haverfordwest Pembroke,Dyfed,SA61 2PZ,51.8017,-4.9691
+202112,C60,Hywel Dda LHB,Bronglais General Hosp.,Caradog Road,Aberystwyth,Dyfed,SY23 1ER,52.34458541666667,-3.9885
+202112,C61,Hywel Dda LHB,West Wales General Hosp.,Carmarthen,Dyfed, ,SA31 2AF,51.85391,-4.30209
+202112,C62,Betsi Cadwaladr University LHB,Adjacent Ysbyty Gwynedd,Penrhosgarnedd Bangor,Gwynedd, ,LL57 2PW,53.203925000000005,-4.106675
+202112,C63,Betsi Cadwaladr University LHB,HM Stanley Hospital,St Asaph,Clwyd, ,LL17 0RS,53.25438333333333,-3.413383333333333
+202112,C64,Betsi Cadwaladr University LHB,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham ,Clwyd,LL13 7TD,52.9917619047619,-2.9116809523809524
+202112,C65,Swansea Bay University LHB,Singleton Hospital,Sketty ,Swansea ,West-Glamorgan,SA2 0FB,51.61628,-4.04254
+202112,C66,Swansea Bay University LHB,41 High Street,Swansea, , ,SA1 1LT,51.63398,-3.94848
+202112,C67,Swansea Bay University LHB,ABERTAWE BRO MORGANNWG UNIV HB,BRIDGEND LOCALITY OFFICE,NORTH COURT   DAVID STREET,BRIDGEND IND ESTATE  BRIDGEND,CF31 3TP,51.507666666666665,-3.577733333333333
+202112,C68,Cwm Taf Morgannwg LHB,NORTH COURT DAVID STREET,BRIDGEND INDUSTRIAL ESTATE,BRIDGEND,,CF31 3TP,51.507666666666665,-3.577733333333333
+202207,V4660,Long Covid Service,CANOLFAN IECHYD,LLANGOLLEN HEALTH CENTRE,BISHOPS WALK,LLANGOLLEN,LL20 8RZ,52.955846666666666,-3.16774
+202207,V4583,Medical Admissions Unit,YSBYTY GWYNEDD,PENRHOSGARNEDD,BANGOR, GWYNEDD,LL57 2PW,53.203925000000005,-4.106675
+202207,V4474,UKRAINIAN REFUGEE CLINIC,SECTORHOUSE VACCINATION CLINIC,ARGYLL ROAD,LLANDUDNO,CONWY,LL30 1FA,53.325,-3.8315
+202207,V4581,COMMUNITY FORENSIC TEAM,TY LLYWELYN,ABER ROAD,LLANFAIRFECHAN,CONWY,LL33 0HH,53.2578,-3.9742
+202207,V4582,BCUHB Children's Neurodevelopment S/West,INTEC BUILDING,PARC MENAI,BANGOR,GWYNEDD,LL57 4FG,53.203925000000005,-4.106675
+202211,V4661,MEDICAL SDEC- AMBULATORY EMERGENCY CARE,Wrexham Maelor Hospital,Croesnewydd Road,Wrexham ,Clwyd,LL13 7TD,52.9917619047619,-2.9116809523809524
