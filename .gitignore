@@ -1,5 +1,5 @@
 __pycache__
 .DS_Store
 raw*
-gp_data/
-hosp_data/
+gp_data/*
+hosp_data/*
